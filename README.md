@@ -92,7 +92,7 @@ VS Code · Jupyter · Git · Postman · Node-RED · MQTT
 
 - 📧 Email: **jdpc13@gmail.com**  
 - 🌐 Portfolio (coming soon): **jonsuey.dev**  
-- 💼 LinkedIn: *(add link here)*  
+- 💼 LinkedIn: *(https://www.linkedin.com/in/josueperezcastillo/)*  
 
 ---
 
