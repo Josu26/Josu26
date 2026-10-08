@@ -1,107 +1,58 @@
-# 👋 Hi, I'm Josué D. Pérez  
+# Hi, I'm Josué.
 
-**Data & AI Analyst | Business Intelligence | Analytics Engineering | IoT & Automation (in progress)**  
-Transforming data into decisions, and decisions into scalable digital products.
+**Data products · Governance by design · Decision systems**
 
----
+I'm a **Data Controller Product Manager** based in the **Canary Islands, Spain**, working across product, data and software in international teams.
 
-## 🔍 About Me
+My focus is on turning ambiguous requirements, fragmented evidence and real-world constraints into **useful, understandable and accountable systems**. My foundations are in business intelligence and data analytics, with an MBA in Business Intelligence & Big Data.
 
-I’m a Data & AI Analyst passionate about creating **insight-driven dashboards**, **efficient data models**, and **end-to-end analytical solutions** for real business problems.  
-My background blends:
+## What I work on
 
-- 📊 **Business Intelligence & Analytics**  
-- 🤖 **Applied AI & Automation**  
-- 🛠️ **Software & Cloud Foundations**  
-- 🧩 **Business Strategy & Process Optimization**
+- **Data products:** decision-ready metrics, clear requirements, evidence quality and practical product boundaries.
+- **Product governance:** data quality, traceability, reviewability and safe publication as design concerns, not afterthoughts.
+- **Decision systems:** explicit uncertainty, deterministic logic and human oversight where confidence alone is not enough.
+- **Software and analytics:** hands-on exploration across Python/SQL and a local-first Rust/TypeScript desktop project.
 
-I focus on building analytical tools that directly impact business performance, customer behavior, and operational efficiency.
+My current job title is not a claim of senior AI engineering or AI governance certification. I'm building deeper expertise in AI product management and assurance through practical work and focused study.
 
----
+## Selected work
 
-## 🚀 What I Do
+### [Canary Islands Tourism Analytics](https://github.com/Josu26/kanarytour_frontur_analytics)
+**Public / exploratory data project**
 
-- **Data Cleaning & Modeling (SQL, Power BI, Python/Pandas)**  
-- **Interactive Dashboards & Executives Reports**  
-- **Funnel Optimization & KPI Design for Sales/Marketing**  
-- **Machine Learning Foundations & Predictive Analysis**  
-- **ETL Pipelines & Automation Workflows**  
-- **IoT / Sensor Data Projects (ongoing)**  
+Python-based tourism data preparation and SQLite storage, alongside a Django web application. The repository contains working implementation artifacts, but its documentation and automated test coverage are still limited.
 
-I love designing systems where **data, automation and decision-making** work together seamlessly.
+### [Business Analytics Case Study](https://github.com/Josu26/business-analytics-junior-case-study)
+**Public / historical BI case study**
 
----
+A Power BI exercise focused on commercial funnel analysis, cost modelling and communicating decisions. It demonstrates my analytical foundations; it is not presented as a production deployment.
 
-## 📚 Currently Working On
+### Local-first decision & execution software
+**Personal R&D / private / ongoing**
 
-- Building my **Data Analyst / Analytics Engineer** portfolio  
-- Developing a multi-part BI project covering:  
-  - Funnel analytics  
-  - Sales performance  
-  - Cost optimization  
-  - Real-time tracking (IoT)  
-- Deepening my skills in:  
-  - **Python for Analytics**  
-  - **SQL performance & modeling**  
-  - **Power BI advanced modeling (DAX, star schema)**  
-  - **Applied AI & LLMs**  
+I'm developing a desktop system exploring source-aware observations, explicit uncertainty and transparent, rule-based decision support. Its Rust domain layers include deterministic logic and tests; integrated user-facing capabilities are narrower than the longer-term product vision. The code is not publicly available.
 
----
+### Professional data product & governance practice
+**Work experience / non-public**
 
-## 🗂️ Featured Projects (live)
+My professional responsibilities span data, product and control. I apply data quality, accountability and traceability thinking in a working environment. Employer-owned systems, internal metrics and team deliverables are deliberately excluded from this portfolio.
 
-### 📊 Business Analytics Junior – Case Study (Power BI)
-A complete analytical solution including:  
-- Data cleaning & transformation  
-- KPIs & funnel performance  
-- POS & vendor structure validation  
-- Cost analysis (hour / week / activation)  
-- Executive documentation included  
-→ *(Link to repo once uploaded)*
+## How I think
 
-### 📈 Tourism Analytics – Canary Islands (Python + BI)
-ETL pipeline + Power BI dashboard analyzing tourism behavior and island performance.  
-→ *(Link to repo)*
+1. **Distinguish evidence from assumptions.** Unknown or stale inputs should remain visible.
+2. **Show what is implemented.** A design document, test, working prototype and production system are different things.
+3. **Build for auditability and safe boundaries.** Reliability includes explaining how a result was reached and when it should not be used.
+4. **Optimize for decisions, not demos.** Value comes from sound product judgment and usable outcomes, not a large technology list.
 
-### 🧪 IoT Sensor Pipeline (MQTT + Python + Automation)
-Real-time sensor ingestion, processing and dashboarding.  
-→ *(Link to repo)*  
+## Tools & direction
 
----
+**Hands-on / represented in my work:** Python, SQL, Power BI, DAX, data modelling; Rust, TypeScript, React and Tauri in personal R&D.
 
-## 🛠️ Tech Stack
+**Currently developing further:** AI product governance, AI assurance, agentic workflow reliability and decision intelligence. These are areas of active development, not claims of certified expertise.
 
-**Languages:**  
-Python · SQL · DAX · JavaScript (basics)  
+## Connect
 
-**Analytics & BI:**  
-Power BI · Pandas · Numpy · Matplotlib · Excel  
+- [LinkedIn](https://www.linkedin.com/in/josueperezcastillo/)
+- [Public GitHub repositories](https://github.com/Josu26?tab=repositories)
 
-**Data Engineering:**  
-ETL · Power Query · Star Schema · Data Cleaning  
-
-**Cloud & DevOps (learning):**  
-AWS · Docker · CI/CD · GitHub Actions  
-
-**Tools:**  
-VS Code · Jupyter · Git · Postman · Node-RED · MQTT  
-
----
-
-## 📫 Contact
-
-- 📧 Email: **jdpc13@gmail.com**  
-- 🌐 Portfolio (coming soon): **jonsuey.dev**  
-- 💼 LinkedIn: *(https://www.linkedin.com/in/josueperezcastillo/)*  
-
----
-
-## ⚡ Fun Facts
-
-- I speak **Spanish & English**.  
-- I’m obsessed with clean dashboards and elegant data models.  
-- I use AI tools daily to enhance productivity and deliver faster insights.  
-
----
-
-### 🚀 Let's build something amazing with data.
+*I care about systems that are honest about what they know—and explicit about what they don't.*
