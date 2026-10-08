@@ -52,6 +52,7 @@ My professional responsibilities span data, product and control. I apply data qu
 
 ## Connect
 
+- [Professional portfolio](https://josu26.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/josueperezcastillo/)
 - [Public GitHub repositories](https://github.com/Josu26?tab=repositories)
 
