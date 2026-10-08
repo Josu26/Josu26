@@ -1,60 +1,58 @@
 # Hi, I'm Josué.
 
-**Data Product Manager · AI Governance · Decision Systems**
+**Data products · Governance by design · Decision systems**
 
-I work at the intersection of **data, product, and trustworthy automation**. My focus is turning fragmented information into decisions that are useful, explainable, and grounded in evidence.
+I'm a **Data Controller Product Manager** based in the **Canary Islands, Spain**, working across product, data and software in international teams.
 
-Based in the **Canary Islands, Spain**. Working across business intelligence, product architecture, and responsible AI.
+My focus is on turning ambiguous requirements, fragmented evidence and real-world constraints into **useful, understandable and accountable systems**. My foundations are in business intelligence and data analytics, with an MBA in Business Intelligence & Big Data.
 
-## What I build
+## What I work on
 
-- **Data products and decision systems** — translating business needs into measurable, reliable product behavior.
-- **Governance by design** — traceability, data contracts, evidence quality, ownership, auditability, and safe publication boundaries.
-- **Local-first software** — systems that respect data boundaries, preserve context, and make uncertainty explicit.
-- **Analytics and intelligence** — scoring, KPI frameworks, data modeling, and executive-ready insights.
+- **Data products:** decision-ready metrics, clear requirements, evidence quality and practical product boundaries.
+- **Product governance:** data quality, traceability, reviewability and safe publication as design concerns, not afterthoughts.
+- **Decision systems:** explicit uncertainty, deterministic logic and human oversight where confidence alone is not enough.
+- **Software and analytics:** hands-on exploration across Python/SQL and a local-first Rust/TypeScript desktop project.
 
-I care about a simple principle: **a system should know what it knows, show what it cannot verify, and avoid pretending otherwise.**
+My current job title is not a claim of senior AI engineering or AI governance certification. I'm building deeper expertise in AI product management and assurance through practical work and focused study.
 
 ## Selected work
 
-### Local-first decision & execution system
-*Personal R&D · private repository · in active development*
+### [Canary Islands Tourism Analytics](https://github.com/Josu26/kanarytour_frontur_analytics)
+**Public / exploratory data project**
 
-Building a desktop product that connects real-world observations to transparent, actionable recommendations. The architecture explores deterministic decision logic, read-only integrations, provenance, explicit freshness states, and human oversight.
+Python-based tourism data preparation and SQLite storage, alongside a Django web application. The repository contains working implementation artifacts, but its documentation and automated test coverage are still limited.
 
-**Stack:** Rust · TypeScript · React · Tauri · Google Calendar integration
+### [Business Analytics Case Study](https://github.com/Josu26/business-analytics-junior-case-study)
+**Public / historical BI case study**
 
-### Data assurance & product governance
-*Professional experience · details intentionally non-public*
+A Power BI exercise focused on commercial funnel analysis, cost modelling and communicating decisions. It demonstrates my analytical foundations; it is not presented as a production deployment.
 
-Working on evidence-aware data products and governance practices: data quality checks, accountable decision flows, auditability, safe release conditions, and trustworthy product operations.
+### Local-first decision & execution software
+**Personal R&D / private / ongoing**
 
-### Public analytics projects
+I'm developing a desktop system exploring source-aware observations, explicit uncertainty and transparent, rule-based decision support. Its Rust domain layers include deterministic logic and tests; integrated user-facing capabilities are narrower than the longer-term product vision. The code is not publicly available.
 
-- **[Canary Islands Tourism Analytics](https://github.com/Josu26/kanarytour_frontur_analytics)** — data ingestion, transformation, SQLite, Django, and tourism analytics using public data.
-- **[Business Analytics Case Study](https://github.com/Josu26/business-analytics-junior-case-study)** — Power BI data modeling, commercial funnel KPIs, cost analysis, and executive reporting.
+### Professional data product & governance practice
+**Work experience / non-public**
 
-These public projects show my BI foundations. My more recent product and governance work is largely private.
+My professional responsibilities span data, product and control. I apply data quality, accountability and traceability thinking in a working environment. Employer-owned systems, internal metrics and team deliverables are deliberately excluded from this portfolio.
 
-## Tools & approaches
+## How I think
 
-**Product and software:** Rust · TypeScript · React · Tauri · Python · Git · GitHub Actions
+1. **Distinguish evidence from assumptions.** Unknown or stale inputs should remain visible.
+2. **Show what is implemented.** A design document, test, working prototype and production system are different things.
+3. **Build for auditability and safe boundaries.** Reliability includes explaining how a result was reached and when it should not be used.
+4. **Optimize for decisions, not demos.** Value comes from sound product judgment and usable outcomes, not a large technology list.
 
-**Data and analytics:** SQL · Power BI · Qlik Sense · Pandas · data modeling · KPI design
+## Tools & direction
 
-**Systems thinking:** data contracts · provenance · observability · assurance gates · human-in-the-loop decisions
+**Hands-on / represented in my work:** Python, SQL, Power BI, DAX, data modelling; Rust, TypeScript, React and Tauri in personal R&D.
 
-I prioritize **correctness over confident-looking output**, especially when data is incomplete or a decision has operational consequences.
-
-## Where I'm heading
-
-I'm deepening my work in **AI product governance, reliable agentic workflows, decision intelligence, and evidence-first product engineering**.
-
-The long-term goal is to help build AI-enabled products that are not just impressive in a demo, but **understandable, accountable, and dependable in real use**.
+**Currently developing further:** AI product governance, AI assurance, agentic workflow reliability and decision intelligence. These are areas of active development, not claims of certified expertise.
 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/josueperezcastillo/)
-- [GitHub](https://github.com/Josu26)
+- [Public GitHub repositories](https://github.com/Josu26?tab=repositories)
 
-*Curious about data products, AI governance, decision systems, and the hard parts of turning ideas into reliable software.*
+*I care about systems that are honest about what they know—and explicit about what they don't.*
