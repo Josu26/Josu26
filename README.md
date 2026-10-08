@@ -1,107 +1,60 @@
-# 👋 Hi, I'm Josué D. Pérez  
+# Hi, I'm Josué.
 
-**Data & AI Analyst | Business Intelligence | Analytics Engineering | IoT & Automation (in progress)**  
-Transforming data into decisions, and decisions into scalable digital products.
+**Data Product Manager · AI Governance · Decision Systems**
 
----
+I work at the intersection of **data, product, and trustworthy automation**. My focus is turning fragmented information into decisions that are useful, explainable, and grounded in evidence.
 
-## 🔍 About Me
+Based in the **Canary Islands, Spain**. Working across business intelligence, product architecture, and responsible AI.
 
-I’m a Data & AI Analyst passionate about creating **insight-driven dashboards**, **efficient data models**, and **end-to-end analytical solutions** for real business problems.  
-My background blends:
+## What I build
 
-- 📊 **Business Intelligence & Analytics**  
-- 🤖 **Applied AI & Automation**  
-- 🛠️ **Software & Cloud Foundations**  
-- 🧩 **Business Strategy & Process Optimization**
+- **Data products and decision systems** — translating business needs into measurable, reliable product behavior.
+- **Governance by design** — traceability, data contracts, evidence quality, ownership, auditability, and safe publication boundaries.
+- **Local-first software** — systems that respect data boundaries, preserve context, and make uncertainty explicit.
+- **Analytics and intelligence** — scoring, KPI frameworks, data modeling, and executive-ready insights.
 
-I focus on building analytical tools that directly impact business performance, customer behavior, and operational efficiency.
+I care about a simple principle: **a system should know what it knows, show what it cannot verify, and avoid pretending otherwise.**
 
----
+## Selected work
 
-## 🚀 What I Do
+### Local-first decision & execution system
+*Personal R&D · private repository · in active development*
 
-- **Data Cleaning & Modeling (SQL, Power BI, Python/Pandas)**  
-- **Interactive Dashboards & Executives Reports**  
-- **Funnel Optimization & KPI Design for Sales/Marketing**  
-- **Machine Learning Foundations & Predictive Analysis**  
-- **ETL Pipelines & Automation Workflows**  
-- **IoT / Sensor Data Projects (ongoing)**  
+Building a desktop product that connects real-world observations to transparent, actionable recommendations. The architecture explores deterministic decision logic, read-only integrations, provenance, explicit freshness states, and human oversight.
 
-I love designing systems where **data, automation and decision-making** work together seamlessly.
+**Stack:** Rust · TypeScript · React · Tauri · Google Calendar integration
 
----
+### Data assurance & product governance
+*Professional experience · details intentionally non-public*
 
-## 📚 Currently Working On
+Working on evidence-aware data products and governance practices: data quality checks, accountable decision flows, auditability, safe release conditions, and trustworthy product operations.
 
-- Building my **Data Analyst / Analytics Engineer** portfolio  
-- Developing a multi-part BI project covering:  
-  - Funnel analytics  
-  - Sales performance  
-  - Cost optimization  
-  - Real-time tracking (IoT)  
-- Deepening my skills in:  
-  - **Python for Analytics**  
-  - **SQL performance & modeling**  
-  - **Power BI advanced modeling (DAX, star schema)**  
-  - **Applied AI & LLMs**  
+### Public analytics projects
 
----
+- **[Canary Islands Tourism Analytics](https://github.com/Josu26/kanarytour_frontur_analytics)** — data ingestion, transformation, SQLite, Django, and tourism analytics using public data.
+- **[Business Analytics Case Study](https://github.com/Josu26/business-analytics-junior-case-study)** — Power BI data modeling, commercial funnel KPIs, cost analysis, and executive reporting.
 
-## 🗂️ Featured Projects (live)
+These public projects show my BI foundations. My more recent product and governance work is largely private.
 
-### 📊 Business Analytics Junior – Case Study (Power BI)
-A complete analytical solution including:  
-- Data cleaning & transformation  
-- KPIs & funnel performance  
-- POS & vendor structure validation  
-- Cost analysis (hour / week / activation)  
-- Executive documentation included  
-→ *(Link to repo once uploaded)*
+## Tools & approaches
 
-### 📈 Tourism Analytics – Canary Islands (Python + BI)
-ETL pipeline + Power BI dashboard analyzing tourism behavior and island performance.  
-→ *(Link to repo)*
+**Product and software:** Rust · TypeScript · React · Tauri · Python · Git · GitHub Actions
 
-### 🧪 IoT Sensor Pipeline (MQTT + Python + Automation)
-Real-time sensor ingestion, processing and dashboarding.  
-→ *(Link to repo)*  
+**Data and analytics:** SQL · Power BI · Qlik Sense · Pandas · data modeling · KPI design
 
----
+**Systems thinking:** data contracts · provenance · observability · assurance gates · human-in-the-loop decisions
 
-## 🛠️ Tech Stack
+I prioritize **correctness over confident-looking output**, especially when data is incomplete or a decision has operational consequences.
 
-**Languages:**  
-Python · SQL · DAX · JavaScript (basics)  
+## Where I'm heading
 
-**Analytics & BI:**  
-Power BI · Pandas · Numpy · Matplotlib · Excel  
+I'm deepening my work in **AI product governance, reliable agentic workflows, decision intelligence, and evidence-first product engineering**.
 
-**Data Engineering:**  
-ETL · Power Query · Star Schema · Data Cleaning  
+The long-term goal is to help build AI-enabled products that are not just impressive in a demo, but **understandable, accountable, and dependable in real use**.
 
-**Cloud & DevOps (learning):**  
-AWS · Docker · CI/CD · GitHub Actions  
+## Connect
 
-**Tools:**  
-VS Code · Jupyter · Git · Postman · Node-RED · MQTT  
+- [LinkedIn](https://www.linkedin.com/in/josueperezcastillo/)
+- [GitHub](https://github.com/Josu26)
 
----
-
-## 📫 Contact
-
-- 📧 Email: **jdpc13@gmail.com**  
-- 🌐 Portfolio (coming soon): **jonsuey.dev**  
-- 💼 LinkedIn: *(https://www.linkedin.com/in/josueperezcastillo/)*  
-
----
-
-## ⚡ Fun Facts
-
-- I speak **Spanish & English**.  
-- I’m obsessed with clean dashboards and elegant data models.  
-- I use AI tools daily to enhance productivity and deliver faster insights.  
-
----
-
-### 🚀 Let's build something amazing with data.
+*Curious about data products, AI governance, decision systems, and the hard parts of turning ideas into reliable software.*
